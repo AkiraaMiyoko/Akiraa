@@ -4,7 +4,8 @@ SEARCHING FOR AN ENTITY THAY DOESN'T EXIST
 -------------------
 
 PROJECT DESCRIPTION:
-Searching for an entity's storyline is made by me, however the name came from my cousin (since they suggested it to me and it's lowkey fire) and is inspired by the minecraft ARG; Searching for a world that doesn't exist. 
+
+Searching for an entity's storyline is made by me, however the name came from my cousin (since they suggested it to me and it's lowkey fire) and is inspired by the minecraft ARG; Searching for a world that doesn't exist. as for why it's named searchimg for a NIL, well the whole original title doesn't fit so I have to change. NIL basicaslly means nothing.
 
 GENRE: HORROR (but not really scary ehe more of like a thriller) 
 
