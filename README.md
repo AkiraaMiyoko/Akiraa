@@ -1,5 +1,5 @@
 PROJECT TITLE:
-SEARCHING FOR AN ENTITY THAY DOESN'T EXIST
+SEARCHING FOR AN ENTITY THAY DOESN'T EXIST/ SEARCHING FOR A NIL
 
 -------------------
 
@@ -10,7 +10,9 @@ Searching for an entity's storyline is made by me, however the name came from my
 GENRE: HORROR (but not really scary ehe more of like a thriller) 
 
 STORYLINE DESCRIPTION: (Since i cant write the whole storyline cuz its long so I'll summarize it.)
-This project is about a young man/woman who find adventuring to horror houses thrilling. When they heard about the rumours of a  mysterious haunted house at the deep forest among the locals, they tried to search for it. However once they found what they're looking for, they unexpectedly encountered things along the way.
+This project is about a young man/woman who find adventuring to horror houses thrilling. When they heard about the rumours of a  mysterious haunted house at the deep forest among the locals, they tried to search for it. 
+
+Once they've found it, they went inside to explore, but what they didn't knwo is once thay you've gone inside, you can never go back.
 
 GOAL:
 You need to escape under 30 seconds in order to not get eaten by the entity. 
@@ -30,7 +32,7 @@ Keys (orange-yellowish small boxes) - you need to collect all of it under 30 sec
 
 Walls (Grey boxes)- You must not BUMP onto it. If you bump on the walls, it will increase the bar of the noise level. 
 
-Null (Entity's name) - The entity is dependent on the sound you make. So you need to stay quiet!
+NIL (Entity's name) - The entity is dependent on the sound you make. So you need to stay quiet!
 
 If a key is stuck inside the wall, restart the game since the keys and walls are spawned randomly around the map.
 
@@ -44,7 +46,7 @@ I have watched numerous youtube tutorials on how I made the game and I'm lwk pro
 
 The game may look basic, but I have no time to make it more appealing because I literally have no laptop or computer and I'm just using the computer of my cousin. I am happy that I have finished the game but I am not satisfied rhat much because it looks like theres a lot missing. Don't worry in the near future I will still continue working on this game but from a different language and will update it.
 
-Also, I don't wanna lie about this one since I'm very guilty about it. The only time I used AI when it comes to my work is this. I admit I have used a AI code debugger and AI for the user to move (like the mathematics thing). Since I'm no expert to making one and I really have no experience. And that's the only thing I'm not proud about. I only did the variables, colors and the storyline. I'm no expert when it comes to making games like these since it's my first time but I fortunately I have learned some things when using AI. I may promise in the near future when updating this game, I will do this at my own. I very much dislike using AI on one of my orginal works as an IT since it's really a shame for me (legit tho). 
+Also, I don't wanna lie about this one since I'm very guilty about it. The only time I used AI when it comes to my work is this. I admit I have used a AI code debugger and AI for the user to move (like the mathematics thing). Since I'm no expert to making one and I really have no experience. And that's the only thing I'm not proud about. I only did the variables, colors and the storyline. I'm no expert when it comes to making games like these since it's my first time but I fortunately I have learned some things when using AI. I may promise in the near future when updating this game, I will do this at my own. I very much dislike using AI on one of my orginal works as an IT since it's really a shame for me (legit tho) but I have no choice but to use it since i don't really have experiences.
 
 --------------
 CREATOR:
