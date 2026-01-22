@@ -18,12 +18,14 @@ You need to escape under 30 seconds in order to not get eaten by the entity.
 
 -----------------------
 
-SMALL INSTRUCTION: 
+SMALL INSTRUCTION:
+
 You need to download PYGAME in vscode for the game to program and also click python debugger to run the game if you pressed F5.
 
 ----------------------
 
 HOW TO PLAY:
+
 • Use arrows to move. Unfortunately I'm not used to playing WASD throughout the years so I changed the movement to arrows instead. (Sorry 😭)
 
 • Press enter to for the storyline to continue
