@@ -9,7 +9,7 @@ Searching for an entity's storyline is made by me, however the name came from my
 
 GENRE: HORROR (but not really scary ehe more of like a thriller) 
 
-STORYLINE DESCRIPTION: (Since i cant write the whole storyliej cuz its long so I'll summarize it.)
+STORYLINE DESCRIPTION: (Since i cant write the whole storyline cuz its long so I'll summarize it.)
 This project is about a young man/woman who found adventuring to horror houses thrilling. When they heard about the rumours of a  mysterious haunted house at the deep forest among the locals, they tried to search for it. However once they found what they're looking for, they unexpectedly encountered things along the way.
 
 GOAL:
