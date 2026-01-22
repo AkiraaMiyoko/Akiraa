@@ -4,7 +4,6 @@ SEARCHING FOR AN ENTITY THAY DOESN'T EXIST/ SEARCHING FOR A NIL
 -------------------
 
 PROJECT DESCRIPTION:
-
 Searching for an entity's storyline is made by me, however the name came from my cousin (since they suggested it to me and it's lowkey fire) and is inspired by the minecraft ARG; Searching for a world that doesn't exist. as for why it's named searchimg for a NIL, well the whole original title doesn't fit so I have to change. NIL basicaslly means nothing.
 
 GENRE: HORROR (but not really scary ehe more of like a thriller) 
@@ -19,6 +18,11 @@ You need to escape under 30 seconds in order to not get eaten by the entity.
 
 -----------------------
 
+SMALL INSTRUCTION: 
+You need to download PYGAME in vscode for the game to program and also click python debugger to run the game if you pressed F5.
+
+----------------------
+
 HOW TO PLAY:
 • Use arrows to move. Unfortunately I'm not used to playing WASD throughout the years so I changed the movement to arrows instead. (Sorry 😭)
 
@@ -32,7 +36,9 @@ HOW TO PLAY:
 
 • Walls (Grey boxes)- You must not BUMP onto it. If you bump on the walls, it will increase the bar of the noise level. 
 
-• NIL (Entity's name) - The entity is dependent on the sound you make. So you need to stay quiet!
+• NIL (Entity's name) - The entity is dependent on the sound you make. This entity is very fast if it wakes up, so you need to stay quiet!
+
+• Noise bar level - must always keep low or quiet. If this goes up, you're DEAD.
 
 • If a key is stuck inside the wall, restart the game since the keys and walls are spawned randomly around the map.
 
