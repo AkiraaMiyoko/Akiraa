@@ -25,7 +25,7 @@ You need to escape under 30 seconds in order to not get eaten by the entity.
 
 SMALL INSTRUCTION:
 
-You need to download PYGAME in VScode for the game to program and also click python debugger to run the game if you press F5.
+You need to download PYGAME in the extensions in VScode for the game to program and also click "python debugger" to run the game if you press F5.
 
 ----------------------
 
