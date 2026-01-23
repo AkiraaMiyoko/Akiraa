@@ -57,7 +57,7 @@ CONTACT ME IF THERE'S ANYTHING YOU NEED TO KNOW
 ---------------
 AUTHOR'S NOTE:
 
-I have watched numerous youtube video tutorials on how I made a game and I'm lwk proud of my work.
+I have watched numerous youtube video tutorials on how to make a game and I'm lwk proud of my work.
 
 The game may look basic, but I have no time to make it more appealing because I literally have no laptop or computer and I'm just using the computer of my cousin. I am happy that I have finished the game but I am not satisfied that much because it looks like theres a lot missing. Don't worry in the near future I will still continue working on this game but from a different language and will update it.
 
